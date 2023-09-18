@@ -76,7 +76,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 5px;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
@@ -86,6 +86,50 @@ body {
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* Info Section Styles */
+.info {
+  display: flex;
+  flex-wrap: wrap row;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 60px 0;
+}
+
+.bio, .strength {
+  flex-basis: 48%; /* slightly less than half to account for potential padding/margins */
+  background-color: #fff;
+  padding: 20px;
+ 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.bio p {
+  text-align: center;
+}
+
+.strength h5 {
+  font-size: 1.2em;
+  margin-top: 20px;
+  color: #333;
+}
+
+/* Grid for Strengths */
+.strength {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .info {
+      flex-direction: row;
+  }
+
+  .bio, .strength {
+      flex-basis: 100%;
+  }
 }
 
 hr {

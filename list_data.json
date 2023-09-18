@@ -4,43 +4,43 @@
 					"title": "Naruto",
 					"genre": "Action, Adventure, Fantasy",
 					"synopsis": "Follows the journey of Naruto Uzumaki, a young ninja with a dream of becoming the strongest ninja and leader of his village.",
-					"release_year": 2002
+					"release year": 2002
 			},
 			{
 					"title": "Clannad After Story",
 					"genre": "Slice of Life, Drama, Romance",
 					"synopsis": "A continuation of the original Clannad series, focusing on the life of Tomoya Okazaki and his relationships after high school.",
-					"release_year": 2008
+					"release year": 2008
 			},
 			{
 					"title": "Code Geass",
 					"genre": "Mecha, Action, Thriller",
 					"synopsis": "Lelouch, an exiled prince, gains a mysterious power and uses it to seek revenge against the Britannian Empire.",
-					"release_year": 2006
+					"release year": 2006
 			},
 			{
 					"title": "Kuroko's Basketball",
 					"genre": "Sports, Drama",
 					"synopsis": "The story of a high school basketball team striving to be the best in Japan, led by the mysterious player, Kuroko.",
-					"release_year": 2012
+					"release year": 2012
 			},
 			{
 					"title": "Spy x Family",
 					"genre": "Action, Comedy, Supernatural",
 					"synopsis": "An elite spy forms a fake family as part of a mission, but things get complicated as they grow closer.",
-					"release_year": 2021
+					"release year": 2021
 			},
 			{
 					"title": "Death Note",
 					"genre": "Mystery, Thriller, Supernatural",
 					"synopsis": "A high school student discovers a notebook with the power to kill anyone whose name is written in it.",
-					"release_year": 2006
+					"release year": 2006
 			},
 			{
 					"title": "Attack on Titan",
 					"genre": "Action, Fantasy, Horror",
 					"synopsis": "Humanity fights for survival against giant humanoid creatures known as Titans.",
-					"release_year": 2013
+					"release year": 2013
 			},
 			{
 					"title": "Bleach",
@@ -52,13 +52,13 @@
 					"title": "Food Wars",
 					"genre": "Comedy, Ecchi, Cooking",
 					"synopsis": "Soma Yukihira enrolls in an elite culinary school and faces various cooking challenges.",
-					"release_year": 2015
+					"release year": 2015
 			},
 			{
 					"title": "Link Click",
 					"genre": "Drama, Supernatural",
 					"synopsis": "Two individuals possess the ability to travel through time using photographs, but with certain limitations.",
-					"release_year": 2021
+					"release year": 2021
 			}
 	]
 }
